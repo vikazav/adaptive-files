@@ -1,4 +1,4 @@
-Site for bycicle company
+Responsive site for bycicle company
 
 
 ### Screenshot
@@ -10,7 +10,7 @@ Site for bycicle company
 ### Links
 
 - Solution URL: https://github.com/vikazav/bycicle
-- Live Site URL: https://vikazav.github.io/Order-Summary/#
+- Live Site URL: https://vikazav.github.io/adaptive-files/
 
 
 
